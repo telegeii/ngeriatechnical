@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Photo from "../../assets/Photo1.png";
+import Photo from "../../assets/main.png";
 import Mission from "../../assets/mission.png";
 import Vision from "../../assets/vision.png";
 import Footer from "../../components/Footer/Footer";
@@ -25,7 +25,7 @@ const values = [
   {
     icon: <FaUsers />,
     title: "Community",
-    desc: "We serve the Vihiga community and broader Kenya with inclusive, accessible training.",
+    desc: "We serve the Ngeria community and broader Kenya with inclusive, accessible training.",
   },
   {
     icon: <FaBookOpen />,

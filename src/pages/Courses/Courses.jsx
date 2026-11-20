@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Courses.css";
-import Photo from "../../assets/Photo1.png";
+import Photo from "../../assets/main.png";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer/Footer";
 import PDF from "../../assets/English.pdf";
@@ -96,7 +96,7 @@ const Courses = () => {
         {/* Intro */}
         <div className="courses-intro">
           <span className="courses-eyebrow">What We Offer</span>
-          <h2>Courses at Ngeria Technical Training Institute</h2>
+          <h2>Courses at </h2>
           <p>
             Quality, industry-aligned programmes at Certificate, Diploma, and Artisan levels
             designed to equip you with practical, job-ready skills.

@@ -201,8 +201,8 @@ const Contact = () => {
                 </a>
               </div>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.837082956482!2d34.6658738152952!3d0.024515430024676094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178007e3a81275f7%3A0x1ad962e8c43f4cc2!2sChanzeywe%20Technical%20and%20Professional%20College!5e0!3m2!1sen!2ske!4v1709090000000!5m2!1sen!2ske"
-                title="Chanzeywe TVC Location"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.837082956482!2d34.6658738152952!3d0.024515430024676094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178007e3a81275f7%3A0x1ad962e8c43f4cc2!2sNgeria%20Technical%20Training%20Institute!5e0!3m2!1sen!2ske!4v1709090000000!5m2!1sen!2ske"
+                title="ngeria technical training institute location map"
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
