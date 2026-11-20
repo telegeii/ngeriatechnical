@@ -10,7 +10,7 @@ const navItems = [
     children: [
       { label: "About Us", path: "/about" },
       { label: "Contact Us", path: "/contact" },
-      { label: "Service Charter", path: "/charter" },
+      //{ label: "Service Charter", path: "/charter" },
     ],
   },
   {

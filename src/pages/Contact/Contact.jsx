@@ -17,13 +17,13 @@ const contactDetails = [
   {
     icon: <FaMapMarkerAlt />,
     label: "Location",
-    value: "P.O. Box 413 – 50310, Vihiga County",
-    sub: "1 km from Mahanga Market",
+    value: "P.O. Box 413 – 50310,  Eldoret",
+    sub: "1 km from Ngeria Market",
   },
   {
     icon: <FaPhoneAlt />,
     label: "Phone",
-    value: "",
+    value: "+254 740 932 743",
     href: "tel:+254740932743",
   },
   {

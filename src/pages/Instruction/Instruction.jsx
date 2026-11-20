@@ -1,5 +1,5 @@
 import React from "react";
-import Photo from "../../assets/Photo1.png";
+import Photo from "../../assets/main.png";
 import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar";
 import Level6 from "../../assets/Level6.png";
@@ -103,7 +103,7 @@ const Instruction = () => {
         </div>
       </section>
 
-      {/* ── Why Chanzeywe ── */}
+      {/* ── Why Ngeria Technical Training Institute ── */}
       <section className="ins-why">
         <div className="ins-why__container">
           <div className="ins-why__text">

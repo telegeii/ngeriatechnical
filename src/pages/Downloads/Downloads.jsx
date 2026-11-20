@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer/Footer";
 import "./Downloads.css";
-import Photo from "../../assets/Photo1.png";
+import Photo from "../../assets/main.png";
 import { Link } from "react-router-dom";
 import {
   FaDownload,
@@ -68,7 +68,7 @@ const Downloads = () => {
         <div className="dl-intro">
           <span className="dl-eyebrow">Available Files</span>
           <h2>Student Document Centre</h2>
-          <p>Download official forms and documents needed for your academic journey at Chanzeywe TVC.</p>
+          <p>Download official forms and documents needed for your academic journey at ngeria technical training institute.</p>
         </div>
 
         {loading && <p style={{ textAlign: "center", padding: "20px 0" }}>Loading documents…</p>}
