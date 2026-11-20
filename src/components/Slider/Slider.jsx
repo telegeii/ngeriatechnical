@@ -34,7 +34,7 @@ const DEFAULT_SLIDES = [
   {
     image:    Image3,
     eyebrow:  "Intakes Now Open",
-    text:     "January 2026 Intake Now Open",
+    text:     "January 2027 Intake Now Open",
     subtitle: "Apply early — intakes run in January, May, and September every year.",
     cta:      "Apply Now",
     link:     "/courses",
