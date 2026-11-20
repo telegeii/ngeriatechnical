@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef, useCallback } from "react";
 import { Link } from "react-router-dom";
 import "./Slider.css";
 
-import Image1 from "../../assets/school.jpg";
+import Image1 from "../../assets/main.png";
 import Image2 from "../../assets/school1.jpeg";
 import Image3 from "../../assets/school2.jpg";
 
