@@ -1,6 +1,6 @@
 import React from "react";
 import "./Principal.css";
-import PrincipalPhoto from "../../assets/Photo5.jpg";
+import PrincipalPhoto from "../../assets/photo5.jpg";
 
 const DEFAULTS = {
   name: "Mrs. Unice Kerich",
