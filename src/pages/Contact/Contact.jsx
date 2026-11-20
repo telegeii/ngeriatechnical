@@ -23,14 +23,14 @@ const contactDetails = [
   {
     icon: <FaPhoneAlt />,
     label: "Phone",
-    value: "+254 740 932 743",
+    value: "",
     href: "tel:+254740932743",
   },
   {
     icon: <FaEnvelope />,
     label: "Email",
-    value: "chanzeywetvc@gmail.com",
-    href: "mailto:chanzeywetvc@gmail.com",
+    value: "info@ngeriatechnical.ac.ke",
+    href: "mailto:info@ngeriatechnical.ac.ke",
   },
   {
     icon: <FaClock />,
